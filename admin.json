@@ -1,0 +1,187 @@
+{"intents": [
+    {
+        "tag": "admin01",
+        "responses": [ "Neya"],
+        "patterns": [ "Qui est le responsable du département d'informatique", "Qui est le chef du département d' informatique", "comment s'appelle le chef de département d'informatique", "comment s'appelle le responsable de département d'informatique" ]
+    },
+    {
+        "tag": "admin02",
+        "responses": [ "El wahbi Bouazza"],
+        "patterns": [ "Qui est le responsable du departement de mathématiques", "Qui est le chef du département de mathématiques", "comment s'appelle le chef de département de mathématiques", "comment s'appelle le responsable de département de mathématiques" ]
+    },
+    {
+        "tag": "admin03",
+        "responses": [ "il faut vérifier si votre compte a bien été activé. Vous avez du recevoir un identifiant et un code d'activation pour activer votre compte"],
+        "patterns": [ "je ne peux pas me connecter a l'ENT que dois je faire", "Je n'arrive pas à me connecter à l'ENT que dois-je faire", "que dois-je faire pour me connecter à l'ENT", "que puis-je faire pour me connecter à l'ENT" ]
+    },
+    {
+        "tag": "admin04",
+        "responses": [ "L'absence peut être justifiée par un certificat médical, un arrêt maladie, le certificat de décès d'un proche"],
+        "patterns": [ "pour justifier une absence que dois-je faire", "que dois-je faire pour justifier une absence", "que puis-je faire pour justifier une absence", "que dois-je faire quand je veux justifier mon absence" ]
+    },
+    {
+        "tag": "admin05",
+        "responses": [ "quand peut on retirer un relevé de notes"],
+        "patterns": [ "Pour retirer votre relevé de notes, quelques jours après les délibérations du jury pour chaque semestre, vous devez vous adresser au secrétariat pédagogique de votre formation, avec votre carte d’étudiant.", "Pour retirer votre relevé de notes, quelques jours après les délibérations du jury pour chaque semestre, vous devez vous adresser au secrétariat pédagogique de votre formation, avec votre carte d’étudiant.", "Pour retirer votre relevé de notes, quelques jours après les délibérations du jury pour chaque semestre, vous devez vous adresser au secrétariat pédagogique de votre formation, avec votre carte d’étudiant.", "Pour retirer votre relevé de notes, quelques jours après les délibérations du jury pour chaque semestre, vous devez vous adresser au secrétariat pédagogique de votre formation, avec votre carte d’étudiant." ]
+    },
+    {
+        "tag": "admin06",
+        "responses": [ "Quelles sont les modalités pour les stages"],
+        "patterns": [ "Le stage doit obligatoirement se dérouler dans le cadre d'une convention signée entre les différentes parties Stagiaire et l'Organisme d'accueil", "Le stage doit obligatoirement se dérouler dans le cadre d'une convention signée entre les différentes parties Stagiaire et l'Organisme d'accueil", "Le stage doit obligatoirement se dérouler dans le cadre d'une convention signée entre les différentes parties Stagiaire et l'Organisme d'accueil", "Le stage doit obligatoirement se dérouler dans le cadre d'une convention signée entre les différentes parties Stagiaire et l'Organisme d'accueil" ]
+    },
+    {
+        "tag": "admin07",
+        "responses": [ "Envoyer une lettre de réclamation au doyen"],
+        "patterns": [ "Comment réclamer de re-correction", "De quelle facon puis je réclamer de re-correction", "Qui dois-je faire pour demander une re-correction" ]
+    },
+    {
+        "tag": "admin08",
+        "responses": [ "Dès que vous avez l’accord de votre enseignant pour faire un stage, vous pouvez créer votre convention de stage. La convention de stage doit être signée par votre entreprise puis donnée à votre scolarité au moins 15 jours avant le début de votre stage."],
+        "patterns": [ "De quelle facon puis je créer ma convention de stage", "Comment créer ma convention de stage" ]
+    },
+    {
+        "tag": "admin09",
+        "responses": [ "votre code permanent se trouve sur vos relevés de notes. Votre ancien établissement d'enseignement peut aussi vous le fournir."],
+        "patterns": [ "De quelle facon puis je connaitre mon code CNE", "De quelle facon puis je connaitre mon code permanent de massar", "Comment connaitre mon code CNE" ]
+    },
+    {
+        "tag": "admin10",
+        "responses": [ "Prendre contact avec votre service de scolarité"],
+        "patterns": [ "je souhaite récupérer mon diplome. Que dois je faire", "Comment avoir un certificat de scolarité sur l'ENT", "quand peut on retirer une attestation de réussite", "Qui donne la carte étudiant", "Comment recevoir la carte étudiante", "Quand je vais recevoir ma carte étudiant", "Ou puis je obtenir l'attestation d'inscription", "Ou puis je obtenir le diplome de licence", "j'ai perdu ma carte d'étudiant", "je n'ai jamais recu ma carte d'étudiant", "De quelle facon les etudiants recoivent-ils leur carte d'etudiant", "De quelle facon puis je modifier des informations personnelles", "Comment les etudiants recoivent-ils leur carte d'etudiant", "Où trouver mon emploi du temps", "Comment modifier des informations personnelles" ]
+    },
+    {
+        "tag": "admin11",
+        "responses": [ "quelques jours après les délibérations du jury"],
+        "patterns": [ "Quand puis je retirer ma license", "Quand puis je retirer mon master" ]
+    },
+    {
+        "tag": "admin12",
+        "responses": [ "Du lundi au vendredi de 10h a 15h"],
+        "patterns": [ "A quelle heure ouvre l'administration", "Quand ouvre l'administration", "Quand ouvre la biblioteque" ]
+    },
+    {
+        "tag": "admin13",
+        "responses": [ "vous pouver acceder au site : \"\"ent.uit.ac.ma\"\""],
+        "patterns": [ "Comment puis je obtenir mon numéro d'apogée(site)", "qu'est ce que ca veut dire le numéro d'apogee", "Comment puis je change le mot de passe de mon compte ent", "Et si je n'active pas mon compte je risque quoi", "le lien vers le site de la faculté des sciences", "De quelle facon l'etudiant active-t-il son compte Université ENT", "De quelle facon l'etudiant ont-il obtenir son certificat de scolarité", "De quelle facon il peut avoir un certificat de scolarité sur l'ENT" ]
+    },
+    {
+        "tag": "admin14",
+        "responses": [ "Que vous soyez inscrit ou non, il faut prendre contact le plus rapidement possible avec le responsable pédagogique de votre année de formation qui vous affectera dans les groupes de TD et de TP"],
+        "patterns": [ "Comment puis je intégrer un groupe de TD ou TP", "De quelle facon puis je intégrer un groupe de TD ou TP" ]
+    },
+    {
+        "tag": "admin15",
+        "responses": [ "Pour se réinscrire, il s'agit de la même procédure d'inscription, via le site internet"],
+        "patterns": [ "Comment faire pour se réinscrire à la fac" ]
+    },
+    {
+        "tag": "admin16",
+        "responses": [ "quelques jours après les délibérations du jury ,vous devez vous adresser au secrétariat pédagogique de votre formation, avec votre carte d’étudiant."],
+        "patterns": [ "quand peut on retirer une attestation de réussite" ]
+    },
+    {
+        "tag": "admin17",
+        "responses": [ "C'est écrit sur votre carte d'étudiant"],
+        "patterns": [ "De quelle facon puis je connaitre mon code d'apogee" ]
+    },
+    {
+        "tag": "admin18",
+        "responses": [ "deux-cent-soixante-dix"],
+        "patterns": [ "Qui est le doyen de la faculté de sciences", "Qui est le doyen de la faculté de lettres" ]
+    },
+    {
+        "tag": "admin19",
+        "responses": [ "Dix mille sept cent quatre vingt neuf"],
+        "patterns": [ "Combien y a t il d'etudiants dans la faculté des sciences" ]
+    },
+    {
+        "tag": "admin20",
+        "responses": [ "EBN TOUHAMI Mohamed"],
+        "patterns": [ "Quel est le nom le doyen de la faculté de sciences", "Quel est le nom le doyen de la faculté de lettres", "Quel est le nom le doyen de la faculté des sciences économiques et sociales" ]
+    },
+    {
+        "tag": "admin21",
+        "responses": [ "Hassane ERGUIG"],
+        "patterns": [ "Qui est le directeur de EST" ]
+    },
+    {
+        "tag": "admin22",
+        "responses": [ "impossible"],
+        "patterns": [ "je souhaiterais changer la photo de ma carte d'étudiant" ]
+    },
+    {
+        "tag": "admin23",
+        "responses": [ "la carte d'etudiant"],
+        "patterns": [ "De quoi est je besoin pour entrer à la bibliotheque" ]
+    },
+    {
+        "tag": "admin24",
+        "responses": [ "Lalla Zhor ALAOUI EL OMARI"],
+        "patterns": [ "Combien y a t il de professeurs dans la faculté des sciences", "Combien y a t il d'enseignants dans la faculté des sciences" ]
+    },
+    {
+        "tag": "admin25",
+        "responses": [ "Mohamed Chafik EL IDRISSI"],
+        "patterns": [ "Quel est le nom de directeur d' le département biologie", "Quel est le nom de directeur d' le département Géologie" ]
+    },
+    {
+        "tag": "admin26",
+        "responses": [ "Mohamed Zarrou"],
+        "patterns": [ "Quel est le nom de directeur d' le département Chimie", "J'ai oublié mon mot de passe, comment je peux me reconnecter à mon compte" ]
+    },
+    {
+        "tag": "admin27",
+        "responses": [ "Mohammed CHERKAOUI"],
+        "patterns": [ "Qui est le directeur de l'ecole de chimié" ]
+    },
+    {
+        "tag": "admin28",
+        "responses": [ "Non, les adresses académiques sont des adresses professionnelles dont l'objectif principal est d'identifier l'utilisateur par son nom et prénom et son appartenance à l'université, tous les utilisateurs ont la même forme d'email: prenom.nom@uit.ac.ma."],
+        "patterns": [ "Est ce que je peux personnaliser mon adresse mail" ]
+    },
+    {
+        "tag": "admin29",
+        "responses": [ "oui"],
+        "patterns": [ "L'assurance maladie est-elle obligatoire" ]
+    },
+    {
+        "tag": "admin30",
+        "responses": [ "Professeur Brahim LAKHRISSI"],
+        "patterns": [ "Quel est le nom de directeur d' le département Chimie" ]
+    },
+    {
+        "tag": "admin31",
+        "responses": [ "Professeur Jaafar"],
+        "patterns": [ "Quel est le nom de directeur d' le département Informatique" ]
+    },
+    {
+        "tag": "admin32",
+        "responses": [ "Professeur Jaouad DIYADI"],
+        "patterns": [ "Quel est le nom de directeur d' le département Physique" ]
+    },
+    {
+        "tag": "admin33",
+        "responses": [ "Professeur Rachid BENGUEDDOUR"],
+        "patterns": [ "Quel est le nom de directeur d' le département biologie" ]
+    },
+    {
+        "tag": "admin34",
+        "responses": [ "Professeur Said CHAKIRI"],
+        "patterns": [ "Quel est le nom de directeur d' le département Géologie" ]
+    },
+    {
+        "tag": "admin35",
+        "responses": [ "Professeur Samir KABBAJ"],
+        "patterns": [ "Quel est le nom de directeur d' le département Mathématiques" ]
+    },
+    {
+        "tag": "admin36",
+        "responses": [ "Si vous avez oublié votre mot de passe, il est impossible de le récupérer, par contre vous pouvez le modifier en vous adressant à l'interface recupmail.uit.ac.ma, remplissez le formulaire pour vous identifier, puis cliquez sur \"\"Réinitialiser mon mot de passe\""],
+        "patterns": [ "saisissez un mot de passe qui vous est facile à mémoriser.\"", "J'ai oublié mon mot de passe, comment je peux me reconnecter à mon compte" ]
+    },
+    {
+        "tag": "admin37",
+        "responses": [ "six"],
+        "patterns": [ "Combien y a t il des départements dans la faculté des sciences" ]
+    }
+]}

@@ -1,0 +1,192 @@
+{"intents": [
+    {
+        "tag": "modules01",
+        "responses": [ "1h15min"],
+        "patterns": [ "Quelle est le temps du module" ]
+    },
+    {
+        "tag": "modules02",
+        "responses": [ "Administration Linux , Jee , Uml & Design pattern , Anglais , Machine Learning"],
+        "patterns": [ "Quels sont les modules du Genie Logiciel du premier annee premier semestre" ]
+    },
+    {
+        "tag": "modules03",
+        "responses": [ "Alanyse numerique , Analyse 3 , Chimie organique generale , electromagnetique dans e vide , Thermodynamique 2 , Mecanique du solide"],
+        "patterns": [ "Quels sont les modules du Science Physique du deuxieme annee premier semestre" ]
+    },
+    {
+        "tag": "modules04",
+        "responses": [ "Algorithme Avancee , Anglais , Python , Recording , Système reparatif , Traitement Images"],
+        "patterns": [ "Quels sont les modules du Big Data du premier annee premier semestre" ]
+    },
+    {
+        "tag": "modules05",
+        "responses": [ "Ambriologie , sensorimotrice , Neurophysiologie , Endocrinologie , Pfe"],
+        "patterns": [ "Quels sont les modules du Science de la vie du troisieme annee deuxieme semestre" ]
+    },
+    {
+        "tag": "modules06",
+        "responses": [ "Analyse1 , Algebre 1 , Algebre2 , Mecanique , Thermodynamique , Informatique 1 , LT1"],
+        "patterns": [ "Quels sont les modules du math informatique du premier annee permier semestre", "Quels sont les modules du math appliqué du premier annee premier semestre" ]
+    },
+    {
+        "tag": "modules07",
+        "responses": [ "Analyse2 , Algebre 3 , Analyse3 ,Electrostatique, Optique, Algorithme1 , LT2"],
+        "patterns": [ "Quels sont les modules du math informatique du premier annee deuxieme semestre" ]
+    },
+    {
+        "tag": "modules08",
+        "responses": [ "Bases de donnees , Compilation , Reseaux , Recherche Operationnelle , COO , POO en C++"],
+        "patterns": [ "Quels sont les modules du math informatique du troisieme annee premier semestre" ]
+    },
+    {
+        "tag": "modules09",
+        "responses": [ "Bases de donnees 2 , Programmation systemes , Reseaux 2 , Recherche Operationnelle , Pfe , POO en Java"],
+        "patterns": [ "Quels sont les modules du math informatique du troisieme annee deuxieme semestre" ]
+    },
+    {
+        "tag": "modules10",
+        "responses": [ "Combustion , Rayonnement solaire et capteurs thermiques , Electronique , Mecanique des fluides , Efficacite energitique , Transfers thermique"],
+        "patterns": [ "Quels sont les modules du Matser Energie Renouvelable du deuxieme semestre premier annee" ]
+    },
+    {
+        "tag": "modules11",
+        "responses": [ "Géologie generale , Biologie cellulaire , Lt1 , Chimie 1 , Physique 1 , Mathematiques , Embryologie et Histologie"],
+        "patterns": [ "Quels sont les modules du Science de la vie et la terre du premier annee premier semestre", "Quels sont les modules du Science de la vie du premier annee premier semestre", "Quels sont les modules du Science de la terre du premier annee premier semestre" ]
+    },
+    {
+        "tag": "modules12",
+        "responses": [ "Immunologie , Biologie moleculaire , Gnostique , Ecologie generale 2 , Croissance et developpement , Physiologie des grandes fonctions"],
+        "patterns": [ "Quels sont les modules du Science de la vie et la terre du troisieme annee premier semestre", "Quels sont les modules du Science de la vie du troisieme annee premier semestre", "Quels sont les modules du Science de la terre du troisieme annee premier semestre" ]
+    },
+    {
+        "tag": "modules13",
+        "responses": [ "Informatique , Electricité , Mecanique quantique , Cristallographie geometrique , Optique , Electronique de base , Millieu Materiels et Propagation des ondes"],
+        "patterns": [ "Quels sont les modules du Science Physique du deuxieme annee deuxieme semestre" ]
+    },
+    {
+        "tag": "modules14",
+        "responses": [ "Informatique , mathematique , biologie , physique , Geologie , Chimie"],
+        "patterns": [ "Quels sont les branches dans la faculté du science" ]
+    },
+    {
+        "tag": "modules15",
+        "responses": [ "Informatique 3 , Probabilites & Statistique , Physique 5 , Analyse 5 , Algebre 4 , Analyse 4"],
+        "patterns": [ "Quels sont les modules du math appliqué du deuxieme annee premier semestre" ]
+    },
+    {
+        "tag": "modules16",
+        "responses": [ "Informatique 4 Analyse numerique , Physique 6 , Algebre 5 , Algebre 6 , Analyse 6"],
+        "patterns": [ "Quels sont les modules du math appliqué du deuxieme annee deuxieme semestre" ]
+    },
+    {
+        "tag": "modules17",
+        "responses": [ "Informatique 5 , Analyse numerique 2 , Programmation informatique , Intergration , Calcul differentiel , Topologie"],
+        "patterns": [ "Quels sont les modules du math appliqué du troisieme annee premier semestre" ]
+    },
+    {
+        "tag": "modules18",
+        "responses": [ "Interaction Rayonnement matiere , Traitement de signal , Pysiques des semiconducteurs , Mecanique des fluides , Methodes numerique , Anglais"],
+        "patterns": [ "Quels sont les modules du Master Energie Renouvelable du premier semestre premier annee" ]
+    },
+    {
+        "tag": "modules19",
+        "responses": [ "Les grandes classes des réactions , Genie chimique , Chimie descriptive 2 , Methodes d'analyse , Pfe"],
+        "patterns": [ "quels sont les modules du Science Chimie du troisieme annee deuxieme semestre" ]
+    },
+    {
+        "tag": "modules20",
+        "responses": [ "Lt1 , Algebre 1 , Analyse 1 , Thermodynamique , Thermochimie , Atomistique , Mecanique"],
+        "patterns": [ "Quels sont les modules du Science Physique du premier annee premier semestre", "quels sont les modules du Science Chimie du premier annee premier semestre" ]
+    },
+    {
+        "tag": "modules21",
+        "responses": [ "Lt2 , Algebre 2 , Analyse 2 , Chimie des solutions , Liaisons chimique , Optique , Electrostatique et electronique"],
+        "patterns": [ "Quels sont les modules du Science Physique du premier annee deuxieme semestre", "quels sont les modules du Science Chimie du premier annee deuxieme semestre" ]
+    },
+    {
+        "tag": "modules22",
+        "responses": [ "Lt2 , Biologie des organismes vegetaux , Biologie des organismes animaux , Godynamique exterme , Godynamique interne , Physique 2 , Chimie 2"],
+        "patterns": [ "Quels sont les modules du Science de la vie et la terre du premier annee deuxieme semestre", "Quels sont les modules du Science de la vie du premier annee deuxieme semestre", "Quels sont les modules du Science de la terre du premier annee deuxieme semestre" ]
+    },
+    {
+        "tag": "modules23",
+        "responses": [ "Lt2 , informatique 2, Optique, Electricité, Algebre 3 , Analyse2 , Analyse 3"],
+        "patterns": [ "Quels sont les modules du math appliqué du premier annee deuxieme semestre" ]
+    },
+    {
+        "tag": "modules24",
+        "responses": [ "Mathematique pour la chimie , Chimie des electrolytes , Chimie exprimentale , Electromagnetisme , Chimie descriptive , Chimie organique generale"],
+        "patterns": [ "quels sont les modules du Science Chimie du deuxieme annee premier semestre" ]
+    },
+    {
+        "tag": "modules25",
+        "responses": [ "Mecanique quantique , Probabilites & statistique , Thermodynamique , Thermochimie , Cristallographie , Hydrocarbures et fonction monovalentes , Informatique"],
+        "patterns": [ "quels sont les modules du Science Chimie du deuxieme annee deuxieme semestre" ]
+    },
+    {
+        "tag": "modules26",
+        "responses": [ "Pas Forcement"],
+        "patterns": [ "Est-il obligatoire d'assister au cours" ]
+    },
+    {
+        "tag": "modules27",
+        "responses": [ "Physiologie vegetale , Stratigraphie , Palontologie , Ptrographie sdimentaire , sdimentologie , Go-informatique , Chimie appli science terre"],
+        "patterns": [ "Quels sont les modules du Science de la vie et la terre du deuxieme annee deuxieme semestre", "Quels sont les modules du Science de la vie du deuxieme annee deuxieme semestre", "Quels sont les modules du Science de la terre du deuxieme annee deuxieme semestre" ]
+    },
+    {
+        "tag": "modules28",
+        "responses": [ "Physique statique , Physique quantique , Physique des materiaux , Physique nucléaire , Mecanique analytique , Electronique analogique"],
+        "patterns": [ "Quels sont les modules du Science Physique du troisieme annee premier semestre" ]
+    },
+    {
+        "tag": "modules29",
+        "responses": [ "Programmation 1 , Système d'exploitation , Technologie du web , Electronique , Algorithme 2 , Probabilites & Statistique"],
+        "patterns": [ "Quels sont les modules du math informatique du Deuxieme annee premier semestre", "Quels sont les modules du math informatique du Deuxieme annee premier semestre" ]
+    },
+    {
+        "tag": "modules30",
+        "responses": [ "Programmation 2 , Système d'exploitation 2 , Architecture des ordinateur, Electromagnetisme , Structure de donnee , Analyse numerique"],
+        "patterns": [ "Quels sont les modules du math informatique du Deuxieme annee deuxieme semestre" ]
+    },
+    {
+        "tag": "modules31",
+        "responses": [ "Reseaux electriques , Electrotechnique et automatique , Energie de la biomasse , Systemes thermodynamique , Energie Eolienne , Système Photovoltaiques"],
+        "patterns": [ "Quels sont les modules du Master Energie Renouvelable du premier semestre deuxieme annee" ]
+    },
+    {
+        "tag": "modules32",
+        "responses": [ "Ressources petrolieres , Hydrologie de surface , Geomatriaux , Roches minéraux industriels , Pfe"],
+        "patterns": [ "Quels sont les modules du Science de la vie et la terre du troisieme annee deuxieme semestre" ]
+    },
+    {
+        "tag": "modules33",
+        "responses": [ "Techniques chimiques pour la biologie , Biophysique , Statistique , Ecologie generales , Microbiologie , Biochimie"],
+        "patterns": [ "Quels sont les modules du Science de la vie et la terre du deuxieme annee premier semestre", "Quels sont les modules du Science de la vie du deuxieme annee premier semestre", "Quels sont les modules du Science de la terre du deuxieme annee premier semestre" ]
+    },
+    {
+        "tag": "modules34",
+        "responses": [ "Techniques spectroscopiques d'analyse , Electrochimique , Chimie theorique , Cinétique et catatyse , Radiocristallographie , Chimie organique fonctionnelle"],
+        "patterns": [ "quels sont les modules du Science Chimie du troisieme annee premier semestre" ]
+    },
+    {
+        "tag": "modules35",
+        "responses": [ "Tice , Probabilites , Variable complexe , Analyse fonctionnelle , Equation Fonctionnelle , Equation Differentielles , Analyse de Fourier"],
+        "patterns": [ "Quels sont les modules du math appliqué du troisieme annee deuxieme semestre" ]
+    },
+    {
+        "tag": "modules36",
+        "responses": [ "Traitement de signal , Electronique numerique , Physique des composants , Mecanique des milieux continus , Pfe"],
+        "patterns": [ "Quels sont les modules du Science Physique du troisieme annee deuxieme semestre" ]
+    },
+    {
+        "tag": "modules37",
+        "responses": [ "Un"],
+        "patterns": [ "Quelle est le coefficient d'un module ?" ]
+    },
+    {
+        "tag": "modules38",
+        "responses": [ "vous pouvez les trouver ici http://ead-fs.uit.ac.ma/course/index.php?categoryid=3"],
+        "patterns": [ "Ou je peux trouver les cours" ]
+    }
+]}

@@ -1,0 +1,22 @@
+{"intents": [
+	{
+		"tag": "formules01",
+        "responses": [ "Bonjour"],
+        "patterns": [ "Bonjour", "Hello", "Salam" ]
+	},
+	{
+		"tag": "formules02",
+        "responses": [ "Comment ca va", "Comment ça va", "Comment vas-tu"],
+        "patterns": [ "Je vais bien merci", "Ca va merci"]
+	},
+	{
+		"tag": "formules03",
+        "responses": [ "Au revoir", "A bientot", "Bye"],
+        "patterns": [ "Au revoir", "A bientot", "Bye"]
+	},
+	{
+		"tag": "formules04",
+        "responses": [ "Je suis un Chatbbot de l'université Ibn Tofail"],
+        "patterns": [ "Qui es tu", "Tu es qui"]
+	}
+]}
